@@ -1,0 +1,70 @@
+{
+  "_comment": "⚠️ أسعار تجريبية للاستبدال. كل المبالغ بالدرهم الإماراتي. بعد التعديل شغّل: npm run build",
+
+  "attendance": [
+    {
+      "id": "full",
+      "unit": "month",
+      "emoji": "☀️",
+      "name": { "ar": "دوام كامل", "en": "Full day" },
+      "hours": { "from": "07:00", "to": "16:00" },
+      "desc": { "ar": "5 أيام في الأسبوع – رسوم شهرية", "en": "5 days a week – monthly fee" }
+    },
+    {
+      "id": "half",
+      "unit": "month",
+      "emoji": "🌤️",
+      "name": { "ar": "نصف دوام", "en": "Half day" },
+      "hours": { "from": "07:00", "to": "12:30" },
+      "desc": { "ar": "5 أيام في الأسبوع حتى الظهر – رسوم شهرية", "en": "5 mornings a week – monthly fee" }
+    },
+    {
+      "id": "daily",
+      "unit": "day",
+      "emoji": "📅",
+      "name": { "ar": "يومي", "en": "Daily" },
+      "hours": { "from": "07:00", "to": "16:00" },
+      "desc": { "ar": "ادفع باليوم عند الحاجة", "en": "Pay per day, as needed" },
+      "defaultQty": 8,
+      "maxQty": 22
+    },
+    {
+      "id": "hourly",
+      "unit": "hour",
+      "emoji": "⏱️",
+      "name": { "ar": "بالساعة", "en": "Hourly" },
+      "hours": { "from": "07:00", "to": "16:00" },
+      "desc": { "ar": "رعاية مرنة بالساعة", "en": "Flexible care by the hour" },
+      "defaultQty": 10,
+      "maxQty": 120
+    }
+  ],
+
+  "fees": {
+    "little-moons":      { "full": 1800, "half": 1300, "daily": 120, "hourly": 35 },
+    "shining-stars":     { "full": 1600, "half": 1150, "daily": 110, "hourly": 30 },
+    "planet-explorers":  { "full": 1500, "half": 1050, "daily": 100, "hourly": 30 },
+    "little-astronauts": { "full": 1400, "half": 1000, "daily": 100, "hourly": 30 }
+  },
+
+  "extras": {
+    "transport": [
+      { "id": "ajman",   "price": 250, "name": { "ar": "عجمان",   "en": "Ajman" } },
+      { "id": "sharjah", "price": 350, "name": { "ar": "الشارقة", "en": "Sharjah" } },
+      { "id": "dubai",   "price": 500, "name": { "ar": "دبي",     "en": "Dubai" } }
+    ],
+    "meals":    { "price": 300, "per": "month" },
+    "extended": { "price": 300, "per": "month", "until": "18:00" },
+    "uniform":  { "price": 150, "per": "once" }
+  },
+
+  "registrationFee": 300,
+
+  "discounts": {
+    "sibling": 10,
+    "institute": 10,
+    "combine": false
+  },
+
+  "installments": 3
+}

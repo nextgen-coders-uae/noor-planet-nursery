@@ -1,0 +1,64 @@
+{
+  "_comment": "الفعاليات (date بصيغة YYYY-MM-DD) – العداد التنازلي يختار أقرب فعالية قادمة تلقائياً. calendar = التقويم والإجازات.",
+
+  "events": [
+    {
+      "id": "flag-day", "date": "2026-11-03", "emoji": "🇦🇪", "tone": "mint",
+      "title": { "ar": "يوم العلم", "en": "Flag Day" },
+      "desc": { "ar": "نرفع علم الإمارات معاً ونلوّن أعلامنا الصغيرة.", "en": "We raise the UAE flag together and colour our own little flags." }
+    },
+    {
+      "id": "national-day", "date": "2026-12-02", "emoji": "🎉", "tone": "pink",
+      "title": { "ar": "احتفال عيد الاتحاد", "en": "National Day celebration" },
+      "desc": { "ar": "أزياء تراثية، أناشيد وطنية، وركن للحنّاء والمأكولات الشعبية.", "en": "Traditional dress, national songs, a henna corner and local treats." }
+    },
+    {
+      "id": "winter-show", "date": "2026-12-17", "emoji": "❄️", "tone": "sky",
+      "title": { "ar": "حفل الشتاء", "en": "Winter show" },
+      "desc": { "ar": "عرض صغير يقدّمه الأطفال لأهاليهم مع أنشطة شتوية ممتعة.", "en": "A little show performed by the children for their families, with fun winter activities." }
+    },
+    {
+      "id": "farm-trip", "date": "2027-01-21", "emoji": "🐑", "tone": "orange",
+      "title": { "ar": "رحلة إلى المزرعة", "en": "Trip to the farm" },
+      "desc": { "ar": "رحلة لبرنامجي المستكشفين ورواد الفضاء للتعرّف على الحيوانات (بموافقة الأهل).", "en": "A trip for Explorers and Astronauts to meet the animals (with parental consent)." }
+    },
+    {
+      "id": "mothers-day", "date": "2027-03-21", "emoji": "💐", "tone": "pink",
+      "title": { "ar": "يوم الأم", "en": "Mother's Day" },
+      "desc": { "ar": "صباح خاص مع الأمهات: هدايا من صنع أيدي الصغار وإفطار جماعي.", "en": "A special morning with mums: handmade gifts and breakfast together." }
+    },
+    {
+      "id": "graduation", "date": "2027-06-17", "emoji": "🎓", "tone": "violet",
+      "title": { "ar": "حفل تخرّج رواد الفضاء", "en": "Little Astronauts graduation" },
+      "desc": { "ar": "نودّع روادنا الصغار المنتقلين إلى KG في معهد أبناؤنا.", "en": "We celebrate our little astronauts moving up to KG at the Institute." }
+    }
+  ],
+
+  "news": [
+    {
+      "date": "2026-09-27", "emoji": "📝", "tone": "sun",
+      "title": { "ar": "التسجيل مفتوح للعام 2026 – 2027", "en": "Registration open for 2026 – 2027" },
+      "desc": { "ar": "بدأ استقبال طلبات التسجيل لجميع البرامج. الأماكن محدودة في برنامج الرضّع.", "en": "We are now accepting applications for all programmes. Infant places are limited." }
+    },
+    {
+      "date": "2026-09-14", "emoji": "🎂", "tone": "pink",
+      "title": { "ar": "أعياد ميلاد الشهر", "en": "Birthdays of the month" },
+      "desc": { "ar": "نحتفل في آخر خميس من كل شهر بأعياد ميلاد أطفال الشهر في حفل بسيط داخل الفصل.", "en": "On the last Thursday of each month we celebrate that month's birthdays with a simple class party." }
+    },
+    {
+      "date": "2026-09-01", "emoji": "🛝", "tone": "mint",
+      "title": { "ar": "تجديد منطقة اللعب الخارجية", "en": "Outdoor play area refreshed" },
+      "desc": { "ar": "أرضيات مطاطية جديدة ومظلات إضافية وألعاب تسلّق مناسبة للأعمار الصغيرة.", "en": "New rubber flooring, extra shade and climbing frames sized for little ones." }
+    }
+  ],
+
+  "calendar": [
+    { "from": "2026-08-31", "emoji": "🚀", "title": { "ar": "بداية العام", "en": "Start of the year" } },
+    { "from": "2026-12-02", "to": "2026-12-03", "emoji": "🇦🇪", "title": { "ar": "إجازة عيد الاتحاد", "en": "National Day holiday" } },
+    { "from": "2026-12-21", "to": "2027-01-01", "emoji": "❄️", "title": { "ar": "إجازة الشتاء", "en": "Winter break" } },
+    { "from": "2027-03-08", "to": "2027-03-12", "emoji": "🌙", "title": { "ar": "إجازة عيد الفطر (حسب الرؤية)", "en": "Eid Al Fitr holiday (subject to moon sighting)" } },
+    { "from": "2027-03-29", "to": "2027-04-02", "emoji": "🌸", "title": { "ar": "إجازة الربيع", "en": "Spring break" } },
+    { "from": "2027-05-15", "to": "2027-05-19", "emoji": "🐑", "title": { "ar": "إجازة عيد الأضحى (حسب الرؤية)", "en": "Eid Al Adha holiday (subject to moon sighting)" } },
+    { "from": "2027-06-25", "emoji": "🎓", "title": { "ar": "نهاية العام", "en": "End of the year" } }
+  ]
+}

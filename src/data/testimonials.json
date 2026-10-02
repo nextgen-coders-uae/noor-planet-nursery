@@ -1,0 +1,29 @@
+[
+  {
+    "tone": "pink",
+    "name": { "ar": "أم يوسف", "en": "Youssef's mum" },
+    "meta": { "ar": "برنامج نجوم مضيئة", "en": "Shining Stars programme" },
+    "text": {
+      "ar": "كنت خائفة من أول يوم، لكن ابني تأقلم في أسبوع واحد. أحببت التقرير اليومي والصور التي تصلني على واتساب.",
+      "en": "I was nervous about the first day, but my son settled within a week. I love the daily report and the photos I get on WhatsApp."
+    }
+  },
+  {
+    "tone": "sky",
+    "name": { "ar": "أبو مريم", "en": "Mariam's dad" },
+    "meta": { "ar": "برنامج رواد الفضاء الصغار", "en": "Little Astronauts programme" },
+    "text": {
+      "ar": "ابنتي أصبحت تعرف الحروف بالعربية والإنجليزية، والانتقال إلى KG في المعهد كان سهلاً جداً.",
+      "en": "My daughter now knows her letters in Arabic and English, and moving up to KG at the Institute was effortless."
+    }
+  },
+  {
+    "tone": "mint",
+    "name": { "ar": "أم آدم", "en": "Adam's mum" },
+    "meta": { "ar": "برنامج أقمار صغيرة", "en": "Little Moons programme" },
+    "text": {
+      "ar": "النظافة والاهتمام بمواعيد الرضاعة والنوم جعلاني أعود إلى عملي وأنا مطمئنة.",
+      "en": "The cleanliness and the care taken over feeding and sleep times let me go back to work with peace of mind."
+    }
+  }
+]

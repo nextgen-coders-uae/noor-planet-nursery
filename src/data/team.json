@@ -1,0 +1,38 @@
+[
+  {
+    "tone": "violet", "image": "team/member-1.svg",
+    "name": { "ar": "أ. [اسم المديرة]", "en": "Ms. [Director's name]" },
+    "role": { "ar": "مديرة الحضانة", "en": "Nursery Director" },
+    "qualification": { "ar": "بكالوريوس تربية – رياض أطفال | خبرة 12 سنة", "en": "B.Ed. Early Childhood | 12 years' experience" }
+  },
+  {
+    "tone": "pink", "image": "team/member-2.svg",
+    "name": { "ar": "أ. [اسم المعلمة]", "en": "Ms. [Teacher's name]" },
+    "role": { "ar": "مشرفة قسم الرضّع – أقمار صغيرة", "en": "Infant Room Lead – Little Moons" },
+    "qualification": { "ar": "دبلوم رعاية الطفولة المبكرة (CACHE Level 3)", "en": "Diploma in Early Years Care (CACHE Level 3)" }
+  },
+  {
+    "tone": "sun", "image": "team/member-3.svg",
+    "name": { "ar": "أ. [اسم المعلمة]", "en": "Ms. [Teacher's name]" },
+    "role": { "ar": "معلمة – نجوم مضيئة", "en": "Teacher – Shining Stars" },
+    "qualification": { "ar": "بكالوريوس رياض أطفال", "en": "B.A. Kindergarten Education" }
+  },
+  {
+    "tone": "sky", "image": "team/member-4.svg",
+    "name": { "ar": "أ. [اسم المعلمة]", "en": "Ms. [Teacher's name]" },
+    "role": { "ar": "معلمة – مستكشفو الكواكب", "en": "Teacher – Planet Explorers" },
+    "qualification": { "ar": "دبلوم مونتيسوري للطفولة المبكرة", "en": "Montessori Early Childhood Diploma" }
+  },
+  {
+    "tone": "orange", "image": "team/member-5.svg",
+    "name": { "ar": "أ. [اسم المعلمة]", "en": "Ms. [Teacher's name]" },
+    "role": { "ar": "معلمة اللغة الإنجليزية – رواد الفضاء", "en": "English Teacher – Little Astronauts" },
+    "qualification": { "ar": "بكالوريوس آداب إنجليزي + TEFL", "en": "B.A. English + TEFL" }
+  },
+  {
+    "tone": "mint", "image": "team/member-6.svg",
+    "name": { "ar": "أ. [اسم الممرضة]", "en": "Ms. [Nurse's name]" },
+    "role": { "ar": "ممرضة الحضانة", "en": "Nursery Nurse" },
+    "qualification": { "ar": "بكالوريوس تمريض – ترخيص وزارة الصحة", "en": "B.Sc. Nursing – MOH licensed" }
+  }
+]

@@ -1,0 +1,786 @@
+{
+  "brand": {
+    "full": "Noor Planet Nursery | حضانة كوكب نور",
+    "name": "Noor Planet Nursery",
+    "short": "Noor Planet",
+    "sub": "حضانة كوكب نور",
+    "institute": "Our Children Abroad Institute",
+    "instituteLine": "Part of Our Children Abroad Institute – Ajman",
+    "mascot": "Noor, the little smiling star – mascot of Noor Planet Nursery"
+  },
+
+  "ui": {
+    "skip": "Skip to content",
+    "menu": "Menu",
+    "mainNav": "Main menu",
+    "close": "Close",
+    "more": "More",
+    "breadcrumb": "Breadcrumb",
+    "otherLang": "العربية",
+    "register": "Enrol your child",
+    "bookVisit": "Book a visit",
+    "learnMore": "Learn more",
+    "backHome": "Back to the planet",
+    "whatsapp": "WhatsApp",
+    "call": "Call us now",
+    "waTip": "Ask me on WhatsApp!",
+    "waHello": "Hello, I would like to ask about Noor Planet Nursery 🌟",
+    "announce": "Registration is open for 2026 – 2027 · Limited places",
+    "announceCta": "Enrol now",
+    "currency": "AED",
+    "ratio": "Teacher-to-child ratio",
+    "seats": "{n} of {total} places available",
+    "seatsFull": "Full – waiting list",
+    "unit": { "month": "month", "day": "day", "hour": "hour" },
+    "days": ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"],
+    "cd": { "d": "days", "h": "hours", "m": "min", "s": "sec" },
+    "demo": "Sample data, to be replaced before launch.",
+    "demoPrices": "Prices shown are samples and will be replaced with the actual fees.",
+    "demoTeam": "Names and photos are placeholders for the real team.",
+    "demoTestimonials": "Sample reviews, to be replaced with real parents' words with their consent.",
+    "demoStats": "Sample figures, to be replaced."
+  },
+
+  "nav": {
+    "index": "Home",
+    "about": "About us",
+    "programs": "Programmes",
+    "day": "A day at Noor Planet",
+    "activities": "Activities and curriculum",
+    "safety": "Safety and care",
+    "facilities": "Facilities",
+    "team": "Our team",
+    "fees": "Fees and packages",
+    "register": "Enrolment",
+    "visit": "Book a visit",
+    "parents": "Parents' corner",
+    "gallery": "Gallery",
+    "events": "Events and news",
+    "faq": "FAQ",
+    "careers": "Join our team",
+    "contact": "Contact us",
+    "privacy": "Privacy policy",
+    "terms": "Terms and conditions"
+  },
+
+  "meta": {
+    "keywords": "nursery Ajman, nursery in Ajman, Noor Planet Nursery, Arabic nursery Sharjah, bilingual nursery UAE, infant daycare Ajman, daycare Ajman, Egyptian nursery UAE, Our Children Abroad Institute",
+    "index": {
+      "title": "Noor Planet Nursery in Ajman | Bilingual nursery for 3 months to 4 years",
+      "desc": "Noor Planet Nursery in Ajman: a safe, warm place for children aged 3 months to 4 years. Play-based learning in Arabic and English, CCTV, healthy meals and transport across Ajman, Sharjah and Dubai."
+    },
+    "about": { "title": "About us", "desc": "The story, vision, mission and values of Noor Planet Nursery, our play-based philosophy, and our link to Our Children Abroad Institute in Ajman." },
+    "programs": { "title": "Programmes by age", "desc": "Four age-based programmes at Noor Planet Nursery: Little Moons for infants, Shining Stars, Planet Explorers, and Little Astronauts preparing for KG." },
+    "program": { "title": "Programme", "desc": "An age-based programme at Noor Planet Nursery." },
+    "day": { "title": "A day at Noor Planet – daily schedule", "desc": "The daily schedule at Noor Planet Nursery as a space journey: arrival, breakfast, morning circle, activities, free play, lunch, nap, story and home time." },
+    "activities": { "title": "Activities and curriculum", "desc": "Activities at Noor Planet Nursery: Arabic and English, numbers and colours, art, music, sensory play, movement, stories, values and simple science." },
+    "safety": { "title": "Safety, care and nutrition", "desc": "CCTV, secure entry, on-site nurse, daily sanitising, a healthy weekly menu and allergy-aware meals at Noor Planet Nursery, Ajman." },
+    "facilities": { "title": "Our facilities", "desc": "Bright classrooms, a quiet sleep room, safe indoor and outdoor play areas and an activity room at Noor Planet Nursery." },
+    "team": { "title": "Our team", "desc": "Meet the director and teachers of Noor Planet Nursery: qualified in early years, trained in first aid and child protection." },
+    "fees": { "title": "Fees and packages", "desc": "Noor Planet Nursery fees by programme and attendance (full day, half day, daily, hourly), with transport, meals, sibling discount and a quick fee calculator." },
+    "register": { "title": "Enrol your child", "desc": "Enrol your child at Noor Planet Nursery in 4 simple steps and send the application straight to WhatsApp." },
+    "thanks": { "title": "Thank you for enrolling", "desc": "Your Noor Planet Nursery application is ready." },
+    "printForm": { "title": "Printable enrolment form", "desc": "Noor Planet Nursery enrolment form to print or save as PDF." },
+    "visit": { "title": "Book a nursery visit", "desc": "Pick a day and time to visit Noor Planet Nursery in Ajman and meet the teachers and classrooms." },
+    "parents": { "title": "Parents' corner", "desc": "Parenting and health tips, the weekly menu, calendar and holidays, the daily bag checklist and nursery policies." },
+    "gallery": { "title": "Photo and video gallery", "desc": "Photos and videos of activities, parties and facilities at Noor Planet Nursery." },
+    "events": { "title": "Events and news", "desc": "Upcoming events and news from Noor Planet Nursery: parties, National Day, Mother's Day, trips and birthdays." },
+    "faq": { "title": "Frequently asked questions", "desc": "Answers to parents' most common questions: ages, hours, meals, illness, settling in and transport." },
+    "careers": { "title": "Join our team – careers", "desc": "Teacher and assistant vacancies at Noor Planet Nursery in Ajman. Apply now." },
+    "contact": { "title": "Contact us", "desc": "Address and phone numbers of Noor Planet Nursery on Al Tallah Street, Ajman, with a map and opening hours." },
+    "privacy": { "title": "Privacy policy", "desc": "How Noor Planet Nursery protects the data and photos of children and parents." },
+    "terms": { "title": "Terms and conditions", "desc": "Terms covering enrolment, fees and attendance at Noor Planet Nursery." },
+    "brandPage": { "title": "Brand board", "desc": "Colours, typography and mascot of Noor Planet Nursery." },
+    "notFound": { "title": "Page not found", "desc": "Looks like the rocket lost its way." }
+  },
+
+  "footer": {
+    "about": "A safe, warm place where little ones discover the world through play, learning in Arabic and English.",
+    "affiliated": "Part of",
+    "links": "Quick links",
+    "rights": "All rights reserved"
+  },
+
+  "cta": {
+    "title": "Your child's place is waiting at Noor Planet",
+    "text": "Places are limited in every programme. Book a visit to meet us, or start enrolling now in two minutes."
+  },
+
+  "forms": {
+    "name": "Name",
+    "parentName": "Parent's name",
+    "phone": "Phone number",
+    "email": "Email",
+    "area": "Area / Emirate",
+    "areaPh": "e.g. Al Nuaimiya – Ajman",
+    "notes": "Notes",
+    "choose": "Choose…",
+    "next": "Next",
+    "back": "Back",
+    "sendWa": "Send via WhatsApp",
+    "waNote": "WhatsApp will open with a ready message — just tap Send.",
+    "doneTitle": "Your message is ready!",
+    "doneText": "We opened WhatsApp with a ready message. Once you send it, our team will reply during opening hours."
+  },
+
+  "home": {
+    "hero": {
+      "kicker": "Noor Planet Nursery · Ajman",
+      "title": "Where little ones grow with love and light",
+      "lead": "A safe, warm place for your child from 3 months to 4 years, discovering the world through play and learning in Arabic and English.",
+      "trust": ["3 months to 4 years", "7 AM to 4 PM", "Smooth move to KG"]
+    },
+    "featuresLabel": "Nursery highlights",
+    "features": [
+      { "emoji": "🛡️", "title": "100% safe environment", "text": "Secure gate, authorised pick-up only" },
+      { "emoji": "📹", "title": "CCTV monitoring", "text": "Classrooms, corridors and play areas" },
+      { "emoji": "🥗", "title": "Healthy meals", "text": "Allergy-aware weekly menu" },
+      { "emoji": "👩‍🏫", "title": "Qualified teachers", "text": "All trained in first aid" },
+      { "emoji": "🔤", "title": "Arabic and English", "text": "Two languages from day one" }
+    ],
+    "programs": {
+      "kicker": "Our programmes",
+      "title": "A programme for every age, a planet for every stage",
+      "lead": "Four stops on your child's journey, each designed around what that age needs.",
+      "cta": "Compare programmes"
+    },
+    "day": {
+      "kicker": "A daily journey",
+      "title": "A day at Noor Planet",
+      "lead": "A steady routine that makes children feel secure, with varied activities that fill the day with discovery.",
+      "cta": "See the full journey"
+    },
+    "activities": {
+      "kicker": "Learning through play",
+      "title": "Activities for minds, hands and hearts",
+      "lead": "Every activity has a purpose: language, movement, imagination or a lovely value.",
+      "cta": "All activities and curriculum"
+    },
+    "gallery": {
+      "kicker": "Snapshots from the planet",
+      "title": "Small moments, big memories",
+      "cta": "Open the gallery"
+    },
+    "testimonials": {
+      "kicker": "Parents' trust",
+      "title": "What Noor Planet parents say"
+    },
+    "stats": {
+      "title": "Noor Planet in numbers",
+      "years": "years of experience",
+      "children": "happy children",
+      "teachers": "teachers and carers",
+      "activities": "activities a month"
+    },
+    "event": {
+      "kicker": "Next event",
+      "cta": "All events"
+    }
+  },
+
+  "programs": {
+    "title": "Programmes by age",
+    "lead": "From the first cuddle to KG readiness: four programmes that follow your child's growth step by step.",
+    "goals": "Programme goals",
+    "skills": "Skills your child will gain",
+    "others": "Other programmes",
+    "compare": {
+      "kicker": "At a glance",
+      "title": "Compare the programmes",
+      "program": "Programme",
+      "age": "Age",
+      "focus": "Focus",
+      "seats": "Places available"
+    },
+    "bridge": {
+      "title": "A smooth move to KG",
+      "text": "Little Astronauts graduates have priority admission to KG at Our Children Abroad Institute, and a progress file travels with each child to their new teacher."
+    }
+  },
+
+  "fees": {
+    "title": "Fees and packages",
+    "lead": "Flexible packages for every family, with clear prices and no hidden charges.",
+    "table": {
+      "kicker": "Tuition",
+      "title": "Fees by programme and attendance",
+      "lead": "All amounts are in UAE dirhams (AED).",
+      "regFee": "Registration fee (one-time): AED {n}."
+    },
+    "extras": {
+      "kicker": "Optional",
+      "title": "Add-on services",
+      "transport": "Transport",
+      "meals": "Meals",
+      "mealsText": "Breakfast, a snack and lunch every day.",
+      "uniform": "Uniform",
+      "uniformText": "Two sets of cotton nursery uniform.",
+      "extended": "Extended care",
+      "extendedText": "Extra care until {time}.",
+      "perMonth": "per month",
+      "once": "one-time"
+    },
+    "discounts": {
+      "kicker": "Save more",
+      "title": "Discounts and instalments",
+      "sibling": "Sibling discount",
+      "siblingText": "Off tuition for the second child onwards when you enrol more than one.",
+      "institute": "Institute discount",
+      "instituteText": "For children of Institute staff and siblings of its students. Cannot be combined with the sibling discount.",
+      "installments": "Easy instalments",
+      "installmentsText": "Termly fees can be paid in {n} instalments at no extra cost."
+    },
+    "calc": {
+      "kicker": "Work it out",
+      "title": "Quick fee calculator",
+      "lead": "Choose the programme, attendance and services to see an instant estimate.",
+      "program": "Programme",
+      "attendance": "Attendance",
+      "qty": "Quantity",
+      "transport": "Transport",
+      "noTransport": "No transport",
+      "monthlyOnly": "Transport, meals, extended care and discounts apply to monthly packages (full day and half day).",
+      "recurring": "Recurring fees",
+      "oneTime": "One-time fees",
+      "total": "Estimated total",
+      "note": "This is an estimate, confirmed when the enrolment contract is signed.",
+      "cta": "Continue enrolling with these choices"
+    }
+  },
+
+  "register": {
+    "title": "Enrol your child at Noor Planet",
+    "lead": "Four simple steps, then we send your application via WhatsApp and contact you to confirm the place.",
+    "stepsLabel": "Enrolment steps",
+    "steps": ["Programme", "Attendance", "Details", "Summary"],
+    "s1": {
+      "title": "How old is your child?",
+      "dobHint": "We will suggest the right programme automatically.",
+      "choose": "Choose a programme"
+    },
+    "s2": { "title": "Attendance and add-on services" },
+    "s3": { "child": "Child's details", "parent": "Parent's details" },
+    "s4": { "title": "Review and send" },
+    "child": {
+      "name": "Child's full name",
+      "dob": "Date of birth",
+      "gender": "Gender",
+      "genders": ["Boy", "Girl"],
+      "sleep": "Sleep habits",
+      "sleepPh": "e.g. one nap after lunch",
+      "toilet": "Nappy / toilet",
+      "toilets": ["Wears nappies", "Potty training", "Uses the toilet independently"],
+      "health": "Allergies / health notes",
+      "healthPh": "Food or medicine allergies, conditions, regular medication…"
+    },
+    "parent": {
+      "emergency": "Extra emergency number",
+      "emergencyHint": "Someone else we can call if we cannot reach you."
+    },
+    "consent": "I agree to my child's data being processed for enrolment under the {link}.",
+    "pdf": "Enrolment form (printable PDF)",
+    "docs": {
+      "title": "Required documents",
+      "items": [
+        "Copy of the birth certificate",
+        "Copy of the child's passport and residence visa",
+        "4 recent passport photos of the child",
+        "Copy of the vaccination record",
+        "Copy of the parent's Emirates ID"
+      ]
+    }
+  },
+
+  "thanks": {
+    "title": "Thank you! Your application is on its way to the planet 🚀",
+    "lead": "If you sent the WhatsApp message, we have your application, and our admissions team will contact you within one working day.",
+    "ref": "Application number",
+    "openWa": "Open WhatsApp chat",
+    "next": [
+      "We confirm the place and arrange a visit to the nursery.",
+      "You bring the required documents and sign the enrolment contract.",
+      "Your child starts a gentle settling-in week… and the journey begins!"
+    ]
+  },
+
+  "printForm": {
+    "print": "Print / save as PDF",
+    "hint": "In the print dialog, choose Save as PDF to get a PDF file.",
+    "title": "Child enrolment form",
+    "photo": "Child's photo",
+    "nationality": "Nationality",
+    "startDate": "Preferred start date",
+    "program": "Programme",
+    "health": "Health and habits",
+    "father": "Father's name",
+    "mother": "Mother's name",
+    "pickup": "Adults authorised to collect the child",
+    "declare": "I confirm that the details above are correct, and I agree to the nursery policies and enrolment terms.",
+    "signature": "Parent's signature",
+    "date": "Date"
+  },
+
+  "visit": {
+    "title": "Book a nursery visit",
+    "lead": "Come and see the planet for yourself: the classrooms, the teachers and the play area. Visits are free, with no obligation.",
+    "childAge": "Child's age",
+    "childAgePh": "e.g. 18 months",
+    "program": "Programme of interest",
+    "notSure": "Not sure yet",
+    "date": "Preferred day",
+    "dateHint": "Visits run Sunday to Thursday.",
+    "time": "Preferred time",
+    "waTitle": "Visit request – Noor Planet Nursery",
+    "workdayMsg": "Visits are available on working days only. Please choose another day.",
+    "what": {
+      "title": "What you will see",
+      "items": [
+        "A tour of the classrooms, sleep room and play areas",
+        "A chat with the director and the class teacher",
+        "The daily programme and our safety procedures",
+        "Answers to all your questions on fees and enrolment"
+      ]
+    }
+  },
+
+  "contact": {
+    "title": "Contact us",
+    "lead": "We would love to hear from you. Message us on WhatsApp, call, or drop by on Al Tallah Street, Ajman.",
+    "subject": "Subject",
+    "subjects": ["Enrolment enquiry", "Fees and packages", "Transport", "Suggestion or complaint", "Other"],
+    "message": "Your message",
+    "waTitle": "Message from the Noor Planet Nursery website",
+    "address": "Address",
+    "phones": "Phone",
+    "hours": "Opening hours",
+    "map": "Nursery location on the map"
+  },
+
+  "careers": {
+    "title": "Join our team",
+    "lead": "We are looking for teachers and assistants who love children and believe play is the best way to learn.",
+    "why": { "kicker": "Why Noor Planet?", "title": "A workplace as warm as its classrooms" },
+    "perks": [
+      { "emoji": "🌱", "title": "Ongoing training", "text": "Courses in early years, first aid and child protection." },
+      { "emoji": "🤝", "title": "A supportive team", "text": "Caring leadership and colleagues who share ideas and experience." },
+      { "emoji": "🚀", "title": "Career path", "text": "Room to grow within the nursery and Our Children Abroad Institute." }
+    ],
+    "formTitle": "Apply now",
+    "formLead": "Fill in the form and your application reaches us on WhatsApp.",
+    "position": "Position",
+    "positions": ["Class teacher", "Teaching assistant", "English teacher", "Nurse", "Bus supervisor", "Admin / reception"],
+    "qualification": "Qualification",
+    "experience": "Years of experience",
+    "visa": "Visa status",
+    "visas": ["Spouse / family visa", "Transferable work visa", "Visit visa", "Outside the UAE"],
+    "about": "About you",
+    "waTitle": "Job application – Noor Planet Nursery",
+    "cv": "To send your CV:",
+    "cvSubject": "Job application – Noor Planet Nursery"
+  },
+
+  "about": {
+    "title": "About us",
+    "lead": "A little glowing planet… where happy children live.",
+    "story": {
+      "kicker": "Our story",
+      "title": "It began with one idea: every child should feel at home",
+      "paras": [
+        "Noor Planet Nursery grew out of Our Children Abroad Institute in Ajman, when we saw how much Egyptian and Arab families in the UAE needed a place that cares for their little ones with the warmth of home and in their own language, while preparing them for a bilingual world.",
+        "We imagined a small glowing planet in space, full of stars, clouds and colour, where Noor — light — is the source of warmth and knowledge. On this planet children discover the world through play and experiment, in complete safety and under loving eyes.",
+        "Today we welcome children from 3 months to 4 years, and stay beside them until they move smoothly into KG at the Institute."
+      ]
+    },
+    "vision": {
+      "title": "Our vision",
+      "text": "To be the most trusted Arabic nursery for families in Ajman and Sharjah, raising confident, curious children who love to learn."
+    },
+    "mission": {
+      "title": "Our mission",
+      "text": "To provide a safe, warm environment where children discover the world through play, learn in Arabic and English, and where we work in honest daily partnership with parents."
+    },
+    "values": {
+      "title": "Our values",
+      "items": [
+        { "emoji": "🛡️", "title": "Safety first", "text": "No activity or decision comes before a child's physical and emotional safety." },
+        { "emoji": "💗", "title": "Love and respect", "text": "Every child is a unique person with their own pace and feelings." },
+        { "emoji": "🧼", "title": "Cleanliness", "text": "Daily sanitising and healthy habits instilled from the start." },
+        { "emoji": "🤝", "title": "Partnership with parents", "text": "Daily communication and full transparency about your child." },
+        { "emoji": "🌍", "title": "Identity and language", "text": "Proud of Arabic and our values, open to English and the world." },
+        { "emoji": "✨", "title": "Joy of discovery", "text": "Curiosity fuels learning — we protect it and feed it." }
+      ]
+    },
+    "philosophy": {
+      "kicker": "How we teach",
+      "title": "Learning through play",
+      "lead": "We blend a play-based approach with Montessori principles of independence and a prepared environment.",
+      "items": [
+        { "emoji": "🧩", "title": "Play is a child's work", "text": "Every game is a chance to learn a word, a skill or a value, without pressure or rote." },
+        { "emoji": "🙌", "title": "I can do it myself", "text": "Child-sized tools and prepared corners invite choice and independence." },
+        { "emoji": "👀", "title": "Observe, then guide", "text": "Teachers watch each child's interests, build on them, and document progress for parents." }
+      ]
+    },
+    "institute": {
+      "title": "Part of the Our Children Abroad Institute family",
+      "text": "The nursery belongs to the Institute and works under its educational supervision, which keeps the curriculum and values consistent and makes the move to KG and beyond easy for your child.",
+      "cta": "Visit the Institute's website"
+    }
+  },
+
+  "day": {
+    "title": "A day at Noor Planet",
+    "lead": "Fasten your seatbelts! This is our daily journey from morning lift-off to the trip back home.",
+    "noteTitle": "Babies keep their own rhythm",
+    "note": "In Little Moons we follow each baby's own feeding and sleep times as set by their parents, not a fixed timetable. Times above are approximate and may vary by programme and on special occasions."
+  },
+
+  "activities": {
+    "title": "Activities and curriculum",
+    "lead": "Ten areas our children move between every week, learning with all their senses.",
+    "approach": {
+      "kicker": "How we plan",
+      "title": "A curriculum built on monthly themes",
+      "lead": "Each month has a theme (such as My Family, Animals or Space) that activities revolve around in both languages.",
+      "items": [
+        "A weekly plan sent to parents every Sunday",
+        "Developmental goals for each age group: language, motor, social and cognitive",
+        "Observation-based assessment and a portfolio shared with parents each term",
+        "Daily English activities with a specialist teacher",
+        "Short surahs, daily prayers and nasheeds for older children"
+      ]
+    }
+  },
+
+  "safety": {
+    "title": "Safety and care",
+    "lead": "We know the most precious thing you have is in our hands. So safety here is a daily system, not a slogan.",
+    "pillars": {
+      "kicker": "Peace of mind",
+      "title": "Six guarantees for your peace of mind",
+      "items": [
+        { "emoji": "📹", "title": "CCTV monitoring", "text": "Covers all classrooms, corridors and play areas, with recordings kept under our privacy policy." },
+        { "emoji": "🚪", "title": "Secure entry gate", "text": "An electronic door opened only from reception, with a log of every visitor." },
+        { "emoji": "🪪", "title": "Authorised pick-up only", "text": "Children are released only to adults on the pick-up card, after an ID check." },
+        { "emoji": "🩺", "title": "Nurse and first aid", "text": "A licensed nurse on site all day, a clinic room and a first-aid kit in every classroom." },
+        { "emoji": "🧼", "title": "Hygiene and sanitising", "text": "Toys and surfaces sanitised daily, nappy changes with gloves in a dedicated area, and handwashing before every meal." },
+        { "emoji": "🎓", "title": "A trained team", "text": "All teachers hold paediatric first-aid and child-protection training, with regular evacuation drills." }
+      ]
+    },
+    "ratios": {
+      "kicker": "Enough eyes",
+      "title": "Teacher-to-child ratios",
+      "lead": "The younger the age, the more carers, in line with licensing requirements."
+    },
+    "allergy": {
+      "title": "Food allergies",
+      "items": [
+        "Every child's allergies are recorded at enrolment and posted in the kitchen and classroom",
+        "The nursery is completely nut-free",
+        "Safe alternatives are prepared for children with allergies",
+        "No medicine is given without a prescription and written parental consent"
+      ]
+    }
+  },
+
+  "menu": {
+    "kicker": "Healthy eating",
+    "title": "Sample weekly menu",
+    "lead": "Fresh, balanced meals, low in sugar and salt, prepared daily.",
+    "day": "Day",
+    "breakfast": "Breakfast",
+    "snack": "Snack",
+    "lunch": "Lunch",
+    "note": "This is a sample menu and changes weekly. Water and milk are available all day."
+  },
+
+  "facilities": {
+    "title": "Facilities",
+    "lead": "Every corner of the planet is built to child size: safe, colourful and full of things to be curious about.",
+    "tour": {
+      "title": "Virtual tour coming soon",
+      "text": "We are preparing a filmed tour of the nursery. Until then, the best tour is to visit us in person!"
+    }
+  },
+
+  "team": {
+    "title": "The Noor Planet team",
+    "lead": "Smiling faces and patient hearts… teachers who chose this job because they love children.",
+    "standards": [
+      { "emoji": "🎓", "title": "Recognised qualifications", "text": "Degrees or diplomas in kindergarten or early years care." },
+      { "emoji": "⛑️", "title": "First aid", "text": "A valid paediatric first-aid certificate for every teacher." },
+      { "emoji": "📋", "title": "Checked and verified", "text": "Good-conduct certificate and medical check before hiring." }
+    ],
+    "join": {
+      "title": "Love working with children?",
+      "text": "We always welcome talented teachers and assistants."
+    }
+  },
+
+  "parents": {
+    "title": "Parents' corner",
+    "lead": "Everything you need as a parent in one place: tips, the menu, the calendar and what to pack.",
+    "articles": { "nav": "Tips", "kicker": "Parenting and health tips", "title": "From our teachers to you" },
+    "menu": { "nav": "Menu" },
+    "calendar": {
+      "nav": "Calendar",
+      "kicker": "2026 – 2027",
+      "title": "Calendar and holidays",
+      "lead": "Dates are provisional and confirmed according to official announcements."
+    },
+    "checklist": {
+      "nav": "Daily bag",
+      "kicker": "Daily checklist",
+      "title": "What should my child bring each day?",
+      "lead": "Print the list and stick it next to the bag.",
+      "items": [
+        "Enough nappies for the day (4 – 6) and wet wipes",
+        "Nappy cream",
+        "Two spare sets of clothes",
+        "A water bottle labelled with your child's name",
+        "Bottle and measured milk (for infants)",
+        "A small blanket or favourite sleep toy",
+        "A hat for outdoor play",
+        "Your child's food if not on the meal plan",
+        "Any medicine, with the prescription and written consent"
+      ],
+      "note": "Please label everything with your child's name. No nuts, hard sweets or small toys, please.",
+      "print": "Print the list"
+    },
+    "policies": {
+      "nav": "Policies",
+      "kicker": "Good to know",
+      "title": "Nursery policies",
+      "items": [
+        {
+          "emoji": "⏰",
+          "title": "Attendance",
+          "items": [
+            "Drop-off from 7:00 to 8:30 AM",
+            "Please report absences on WhatsApp before 8:00",
+            "A gradual settling-in week for every new child"
+          ]
+        },
+        {
+          "emoji": "🤒",
+          "title": "Illness",
+          "items": [
+            "Keep your child home with a 38°C fever, vomiting or diarrhoea",
+            "Return 24 hours after symptoms clear",
+            "Contagious illnesses need a medical note to return"
+          ]
+        },
+        {
+          "emoji": "🪪",
+          "title": "Pick-up",
+          "items": [
+            "Release only to adults on the pick-up card",
+            "Changes must be notified in writing in advance, with a copy of ID",
+            "A late fee applies 15 minutes after closing"
+          ]
+        }
+      ]
+    }
+  },
+
+  "gallery": {
+    "title": "Photo and video gallery",
+    "lead": "A small window onto our day: colours, giggles and discoveries.",
+    "filter": "Filter photos",
+    "all": "All",
+    "open": "Enlarge photo",
+    "prev": "Previous photo",
+    "next": "Next photo",
+    "consent": "We only publish children's photos with written consent from their parents.",
+    "videos": { "kicker": "Watch", "title": "Videos", "soon": "Coming soon" }
+  },
+
+  "events": {
+    "title": "Events and news",
+    "lead": "On Noor Planet, no month goes by without a celebration!",
+    "past": "Ended",
+    "upcoming": { "kicker": "Save the date", "title": "This year's events" },
+    "news": { "kicker": "Latest", "title": "Planet news" }
+  },
+
+  "faq": {
+    "title": "Frequently asked questions",
+    "lead": "What parents ask us most… answered honestly.",
+    "more": {
+      "title": "Did not find your question?",
+      "text": "Ask us directly and we will reply during opening hours."
+    }
+  },
+
+  "legal": {
+    "updated": "Last updated: October 2026 — sample text, to be legally reviewed before launch.",
+    "contactTitle": "Questions?",
+    "contactText": "Email us at"
+  },
+
+  "privacy": {
+    "title": "Privacy policy",
+    "lead": "Your child's and family's privacy is a trust. This policy explains what we collect, why, and how we protect it.",
+    "sections": [
+      {
+        "title": "What we collect",
+        "items": [
+          "Child's details: name, date of birth, gender, health notes, allergies and daily habits",
+          "Parent's details: name, phone, email, area and emergency number",
+          "Documents required for enrolment (birth certificate, passport and visa, vaccinations, ID)"
+        ]
+      },
+      {
+        "title": "How we use it",
+        "paras": [
+          "We use data for one purpose: enrolling and caring for your child and communicating with the family. We never sell data or share it for marketing.",
+          "The forms on this website do not store your data on our servers; they prepare a message that you send yourself through WhatsApp to the nursery's official admissions number."
+        ]
+      },
+      {
+        "title": "Photos and videos of children",
+        "items": [
+          "We do not photograph a child or publish their image on the website or social media without signed written consent from a parent",
+          "Consent can be withdrawn at any time, and published photos are removed within 7 working days",
+          "Daily photos are sent only to that child's own parents",
+          "We never show a child's full name next to a published photo"
+        ]
+      },
+      {
+        "title": "CCTV",
+        "paras": ["CCTV recordings are used for safety only, kept for a limited period, and viewed only by authorised management or the authorities on request."]
+      },
+      {
+        "title": "Your rights",
+        "items": [
+          "To see your child's data and ask for corrections",
+          "To ask for data to be deleted after enrolment ends, unless the law requires us to keep it",
+          "To withdraw photo and publishing consent at any time"
+        ]
+      },
+      {
+        "title": "Cookies and analytics",
+        "paras": ["We may use analytics tools (such as Google Analytics and Meta Pixel) to count visits and improve the website. These tools do not collect children's data."]
+      }
+    ]
+  },
+
+  "terms": {
+    "title": "Terms and conditions",
+    "lead": "By using this website and submitting an application, you agree to the following terms.",
+    "sections": [
+      {
+        "title": "Enrolment and reserving a place",
+        "items": [
+          "An application sent through the website or WhatsApp is a preliminary request, not a confirmed place",
+          "A place is confirmed once documents are complete, the contract is signed and the registration fee is paid",
+          "The places-available indicator on the website is a guide and is updated periodically"
+        ]
+      },
+      {
+        "title": "Fees and payment",
+        "items": [
+          "Prices on the website and in the calculator are estimates; the enrolment contract is what applies",
+          "Fees are paid in advance at the start of each month or term, depending on the package",
+          "Registration and uniform fees are non-refundable",
+          "Discounts cannot be combined unless stated otherwise"
+        ]
+      },
+      {
+        "title": "Withdrawal and refunds",
+        "paras": ["Withdrawal must be notified in writing 30 days in advance. Fees are charged to the end of the current month and any balance is refunded under the nursery's approved policy."]
+      },
+      {
+        "title": "Health and safety",
+        "items": [
+          "Parents must disclose any health condition or allergy their child has",
+          "The nursery may decline to receive a sick child to protect the other children",
+          "In an emergency the child is taken to the nearest medical centre and the parent is informed immediately"
+        ]
+      },
+      {
+        "title": "Website content",
+        "paras": ["All text, illustrations and the Noor mascot belong to Noor Planet Nursery and may not be used without written permission."]
+      }
+    ]
+  },
+
+  "brandPage": {
+    "title": "Brand board",
+    "lead": "The colours, typography, Noor mascot and components this website is built with.",
+    "colors": "Colours",
+    "colorNames": ["Noor yellow", "Sky blue", "Space violet", "Pink", "Mint green", "Warm orange", "Cream", "Night blue"],
+    "fonts": "Typography",
+    "headings": "Headings",
+    "body": "Body text",
+    "mascot": "The mascot: Noor",
+    "mascotText": "A little smiling star, the source of warmth and knowledge on the planet. An original SVG design with four expressions.",
+    "poses": ["Happy", "Winking", "Amazed", "Sleeping"],
+    "components": "Buttons and elements",
+    "sitemap": "Site map"
+  },
+
+  "notFound": {
+    "title": "Looks like the rocket lost its way!",
+    "text": "The page you are looking for is not on this planet. Do not worry, Noor will take you home.",
+    "cta": "Back to the planet"
+  },
+
+  "js": {
+    "currency": "AED",
+    "sep": "━━━━━━━━━━━━━━",
+    "units": { "month": "month", "day": "day", "hour": "hour" },
+    "qtyLabel": { "day": "Days per month", "hour": "Hours per month" },
+    "age": {
+      "years": ["1 year", "2 years", "{n} years", "{n} years"],
+      "months": ["1 month", "2 months", "{n} months", "{n} months"],
+      "and": " and "
+    },
+    "suggest": {
+      "match": "✨ The right programme for your child's age ({age}): {program}",
+      "tooYoung": "We welcome babies from 3 months. You can reserve a place in advance now.",
+      "tooOld": "Your child is over 4 — their place is in KG at Our Children Abroad Institute. Contact us and we will help.",
+      "invalid": "Please enter a valid date of birth."
+    },
+    "errors": {
+      "required": "Please complete the highlighted required fields.",
+      "program": "Please enter the date of birth and choose a programme.",
+      "consent": "Please accept the privacy policy to continue."
+    },
+    "wa": { "title": "New enrolment request – Noor Planet Nursery" },
+    "labels": {
+      "child": "Child's name",
+      "dob": "Date of birth",
+      "age": "Age",
+      "gender": "Gender",
+      "program": "Programme",
+      "attendance": "Attendance",
+      "fees": "Fees",
+      "discount": "Discount",
+      "transport": "Transport",
+      "meals": "Meals",
+      "extended": "Extended care",
+      "uniform": "Uniform",
+      "registration": "Registration fee",
+      "total": "Estimated total",
+      "health": "Health notes/allergies",
+      "sleep": "Sleep",
+      "toilet": "Nappy/toilet",
+      "parent": "Parent",
+      "phone": "Phone",
+      "emergency": "Emergency no.",
+      "email": "Email",
+      "area": "Area",
+      "ref": "Application no.",
+      "none": "None",
+      "sibling": "Sibling discount",
+      "institute": "Institute discount"
+    },
+    "summary": {
+      "child": "Child",
+      "plan": "Programme and attendance",
+      "cost": "Estimated cost",
+      "parent": "Parent"
+    },
+    "countdownToday": "Today! 🎉"
+  }
+}

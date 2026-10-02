@@ -1,0 +1,42 @@
+[
+  {
+    "q": { "ar": "ما الأعمار التي تقبلها الحضانة؟", "en": "What ages do you accept?" },
+    "a": { "ar": "نستقبل الأطفال من عمر 3 أشهر حتى 4 سنوات، موزّعين على أربعة برامج حسب العمر. بعد ذلك ينتقل الطفل بسلاسة إلى مرحلة KG في معهد أبناؤنا في الخارج.", "en": "We welcome children from 3 months to 4 years, grouped into four age-based programmes. After that, children move smoothly into KG at Our Children Abroad Institute." }
+  },
+  {
+    "q": { "ar": "ما مواعيد العمل؟", "en": "What are your opening hours?" },
+    "a": { "ar": "من الأحد إلى الخميس، من 7:00 صباحاً حتى 4:00 عصراً. يتوفر دوام ممتد حتى 6:00 مساءً كخدمة إضافية.", "en": "Sunday to Thursday, 7:00 AM to 4:00 PM. Extended care until 6:00 PM is available as an add-on." }
+  },
+  {
+    "q": { "ar": "هل تقدّمون وجبات؟ وماذا عن الحساسية الغذائية؟", "en": "Do you provide meals? What about food allergies?" },
+    "a": { "ar": "نعم، باقة الوجبات تشمل إفطاراً ووجبة خفيفة وغداء وفق قائمة أسبوعية صحية. نسجّل حساسية كل طفل عند التسجيل ونُعدّ له بديلاً آمناً، والحضانة خالية من المكسرات.", "en": "Yes. The meal plan covers breakfast, a snack and lunch from a healthy weekly menu. We record every child's allergies at registration and prepare a safe alternative, and the nursery is nut-free." }
+  },
+  {
+    "q": { "ar": "كيف تتعاملون مع الطفل المريض؟", "en": "What happens if my child is ill?" },
+    "a": { "ar": "إذا ظهرت على الطفل حرارة (38° أو أكثر) أو قيء أو إسهال أو طفح جلدي، تعزله الممرضة في غرفة العيادة ونتصل بولي الأمر فوراً لاستلامه. يعود الطفل بعد 24 ساعة من زوال الأعراض.", "en": "If a child shows a fever (38°C or above), vomiting, diarrhoea or a rash, our nurse cares for them in the clinic room and we call the parent straight away. Children may return 24 hours after symptoms have cleared." }
+  },
+  {
+    "q": { "ar": "كيف تكون فترة التأقلم؟", "en": "How does the settling-in period work?" },
+    "a": { "ar": "نبدأ بأسبوع تأقلم تدريجي: ساعة أو ساعتان في اليوم الأول بحضور الأم، ثم نزيد المدة يومياً حسب راحة الطفل حتى يصل للدوام الكامل.", "en": "We start with a gradual settling week: an hour or two on day one with mum present, then a little longer each day at your child's pace until they reach their full hours." }
+  },
+  {
+    "q": { "ar": "كيف أعرف ماذا فعل طفلي خلال اليوم؟", "en": "How will I know what my child did today?" },
+    "a": { "ar": "يصلك تقرير يومي مختصر (الوجبات، النوم، تغيير الحفاض، الأنشطة والمزاج) مع صور عبر واتساب، ويمكنك التواصل مع المعلمة في أي وقت خلال الدوام.", "en": "You receive a short daily report (meals, sleep, nappy changes, activities and mood) with photos on WhatsApp, and you can contact the teacher at any time during the day." }
+  },
+  {
+    "q": { "ar": "هل توجد مواصلات؟", "en": "Do you offer transport?" },
+    "a": { "ar": "نعم، حافلات مكيّفة بمشرفة ومقاعد أطفال تغطي عجمان والشارقة ودبي، برسوم شهرية حسب المنطقة.", "en": "Yes. Air-conditioned buses with a supervisor and child seats cover Ajman, Sharjah and Dubai, for a monthly fee depending on the area." }
+  },
+  {
+    "q": { "ar": "هل الحضانة مراقبة بالكاميرات؟", "en": "Is the nursery monitored by CCTV?" },
+    "a": { "ar": "نعم، جميع الفصول والممرات ومناطق اللعب مراقبة بالكاميرات، والدخول عبر بوابة آمنة، ولا يُسلَّم الطفل إلا للأشخاص المسجّلين في بطاقة الاستلام.", "en": "Yes. All classrooms, corridors and play areas are covered by CCTV, entry is through a secure gate, and children are released only to adults listed on the pick-up card." }
+  },
+  {
+    "q": { "ar": "ما المستندات المطلوبة للتسجيل؟", "en": "What documents are needed to register?" },
+    "a": { "ar": "شهادة الميلاد، جواز وإقامة الطفل، 4 صور شخصية، شهادة التطعيمات، وصورة هوية ولي الأمر.", "en": "Birth certificate, the child's passport and residence visa, 4 passport photos, vaccination record, and a copy of the parent's Emirates ID." }
+  },
+  {
+    "q": { "ar": "هل يوجد خصم للإخوة؟", "en": "Is there a sibling discount?" },
+    "a": { "ar": "نعم، خصم للأخ الثاني، وخصم خاص لأبناء العاملين وطلاب معهد أبناؤنا في الخارج، مع إمكانية تقسيط الرسوم.", "en": "Yes: a discount for a second sibling, a special discount for children of staff and students of Our Children Abroad Institute, and fees can be paid in instalments." }
+  }
+]

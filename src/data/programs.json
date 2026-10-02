@@ -1,0 +1,154 @@
+[
+  {
+    "id": "little-moons",
+    "emoji": "🌙",
+    "tone": "violet",
+    "name": { "ar": "أقمار صغيرة", "en": "Little Moons" },
+    "age": { "ar": "من 3 إلى 12 شهراً", "en": "3 – 12 months" },
+    "minMonths": 3,
+    "maxMonths": 12,
+    "ratio": "1:3",
+    "seats": { "total": 12, "available": 3 },
+    "image": "programs/little-moons.svg",
+    "tagline": {
+      "ar": "حضن دافئ ورعاية هادئة لأصغر سكان الكوكب",
+      "en": "A warm, calm embrace for our planet's tiniest residents"
+    },
+    "summary": {
+      "ar": "برنامج الرضّع يركّز على الأمان العاطفي والروتين الهادئ: رضاعة ونوم حسب إيقاع كل طفل، ولعب حسي لطيف، وكثير من الغناء والكلام والابتسامات.",
+      "en": "Our infant programme is built on emotional security and a gentle routine: feeding and sleeping at each baby's own rhythm, soft sensory play, and plenty of songs, talk and smiles."
+    },
+    "goals": {
+      "ar": [
+        "بناء ارتباط آمن بين الطفل ومربيته الأساسية",
+        "دعم مراحل النمو الحركي: الانقلاب، الجلوس، الحبو",
+        "تحفيز الحواس بالألوان والأصوات والملامس الآمنة",
+        "ترسيخ روتين منتظم للنوم والتغذية بالتنسيق مع الأهل"
+      ],
+      "en": [
+        "Build a secure bond between each baby and their key carer",
+        "Support motor milestones: rolling, sitting and crawling",
+        "Stimulate the senses with safe colours, sounds and textures",
+        "Keep a steady sleep and feeding routine agreed with parents"
+      ]
+    },
+    "skills": {
+      "ar": ["وقت البطن", "المناغاة والأصوات", "تتبّع الأشياء بالنظر", "الإمساك والتقاط الألعاب", "الاستجابة للاسم"],
+      "en": ["Tummy time", "Babbling and sounds", "Visual tracking", "Grasping toys", "Responding to their name"]
+    }
+  },
+  {
+    "id": "shining-stars",
+    "emoji": "⭐",
+    "tone": "sun",
+    "name": { "ar": "نجوم مضيئة", "en": "Shining Stars" },
+    "age": { "ar": "من سنة إلى سنتين", "en": "1 – 2 years" },
+    "minMonths": 12,
+    "maxMonths": 24,
+    "ratio": "1:4",
+    "seats": { "total": 16, "available": 6 },
+    "image": "programs/shining-stars.svg",
+    "tagline": {
+      "ar": "الخطوات الأولى والكلمات الأولى",
+      "en": "First steps and first words"
+    },
+    "summary": {
+      "ar": "في هذه المرحلة يبدأ الطفل المشي والكلام والاستكشاف. نوفّر له مساحة آمنة للحركة، وأغاني وقصصاً مصوّرة بالعربية والإنجليزية، وألعاباً تنمّي اليدين الصغيرتين.",
+      "en": "This is the age of walking, talking and exploring. We offer a safe space to move, songs and picture books in Arabic and English, and toys that strengthen little hands."
+    },
+    "goals": {
+      "ar": [
+        "تشجيع المشي والتوازن والحركة بثقة",
+        "إثراء المفردات الأولى باللغتين",
+        "تنمية المهارات الحركية الدقيقة (التركيب، الرصّ، الإمساك)",
+        "بدء الاعتماد على النفس في الأكل والشرب"
+      ],
+      "en": [
+        "Encourage confident walking, balance and movement",
+        "Grow first vocabulary in both languages",
+        "Develop fine motor skills (stacking, fitting, holding)",
+        "Begin self-feeding and drinking independently"
+      ]
+    },
+    "skills": {
+      "ar": ["المشي والتسلّق الآمن", "الكلمات الأولى", "الإشارة والتسمية", "اللعب بجانب الآخرين", "الأناشيد والحركات"],
+      "en": ["Walking and safe climbing", "First words", "Pointing and naming", "Playing alongside others", "Songs with actions"]
+    }
+  },
+  {
+    "id": "planet-explorers",
+    "emoji": "🪐",
+    "tone": "sky",
+    "name": { "ar": "مستكشفو الكواكب", "en": "Planet Explorers" },
+    "age": { "ar": "من سنتين إلى 3 سنوات", "en": "2 – 3 years" },
+    "minMonths": 24,
+    "maxMonths": 36,
+    "ratio": "1:6",
+    "seats": { "total": 18, "available": 8 },
+    "image": "programs/planet-explorers.svg",
+    "tagline": {
+      "ar": "فضول لا ينتهي واكتشاف كل يوم",
+      "en": "Endless curiosity, a new discovery every day"
+    },
+    "summary": {
+      "ar": "مرحلة الأسئلة والاستقلالية. يتعلّم الأطفال الألوان والأشكال والأرقام باللعب، ويبدؤون تكوين الجمل، ونرافقهم بلطف في تدريب الحمّام والمشاركة مع الأصدقاء.",
+      "en": "The age of questions and independence. Children learn colours, shapes and numbers through play, begin forming sentences, and we gently support potty training and sharing with friends."
+    },
+    "goals": {
+      "ar": [
+        "تكوين جمل قصيرة والتعبير عن الحاجات والمشاعر",
+        "التعرّف على الألوان والأشكال والعدّ حتى 10",
+        "دعم تدريب الحمّام بالتنسيق مع الأهل",
+        "تعلّم المشاركة وانتظار الدور"
+      ],
+      "en": [
+        "Form short sentences and express needs and feelings",
+        "Recognise colours and shapes, and count to 10",
+        "Support potty training in partnership with parents",
+        "Learn to share and take turns"
+      ]
+    },
+    "skills": {
+      "ar": ["الجمل القصيرة", "الألوان والأشكال", "الرسم والتلوين", "اللعب التخيّلي", "الاستقلالية في الأكل واللبس"],
+      "en": ["Short sentences", "Colours and shapes", "Drawing and colouring", "Pretend play", "Independence in eating and dressing"]
+    }
+  },
+  {
+    "id": "little-astronauts",
+    "emoji": "🚀",
+    "tone": "orange",
+    "name": { "ar": "رواد الفضاء الصغار", "en": "Little Astronauts" },
+    "age": { "ar": "من 3 إلى 4 سنوات", "en": "3 – 4 years" },
+    "minMonths": 36,
+    "maxMonths": 48,
+    "ratio": "1:8",
+    "seats": { "total": 20, "available": 5 },
+    "image": "programs/little-astronauts.svg",
+    "tagline": {
+      "ar": "جاهزون للإقلاع نحو مرحلة KG",
+      "en": "Ready for lift-off to KG"
+    },
+    "summary": {
+      "ar": "برنامج تمهيدي لمرحلة رياض الأطفال: الحروف العربية والإنجليزية وأصواتها، الأرقام، مسك القلم، والعمل ضمن مجموعة — مع انتقال سلس إلى KG في معهد أبناؤنا في الخارج.",
+      "en": "A pre-KG programme: Arabic and English letters and sounds, numbers, pencil grip and group work — with a smooth transition to KG at Our Children Abroad Institute."
+    },
+    "goals": {
+      "ar": [
+        "التعرّف على الحروف وأصواتها بالعربية والإنجليزية",
+        "العدّ والمفاهيم الرياضية الأولى (أكثر/أقل، التصنيف)",
+        "تقوية عضلات اليد استعداداً للكتابة",
+        "اتباع التعليمات والتركيز والعمل الجماعي"
+      ],
+      "en": [
+        "Recognise letters and their sounds in Arabic and English",
+        "Counting and early maths (more/less, sorting)",
+        "Strengthen hand muscles ready for writing",
+        "Follow instructions, focus and work in a group"
+      ]
+    },
+    "skills": {
+      "ar": ["الحروف والأصوات", "الأرقام حتى 20", "مسك القلم والقصّ", "سرد قصة قصيرة", "آداب الفصل والاستئذان"],
+      "en": ["Letters and sounds", "Numbers to 20", "Pencil grip and cutting", "Retelling a short story", "Classroom manners"]
+    }
+  }
+]

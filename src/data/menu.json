@@ -1,0 +1,35 @@
+{
+  "_comment": "نموذج قائمة الوجبات الأسبوعية. day = رقم اليوم (0 الأحد … 6 السبت).",
+  "week": [
+    {
+      "day": 0,
+      "breakfast": { "ar": "شوفان بالحليب والموز", "en": "Oat porridge with banana" },
+      "snack": { "ar": "شرائح تفاح", "en": "Apple slices" },
+      "lunch": { "ar": "أرز بالخضار ودجاج مشوي", "en": "Vegetable rice with grilled chicken" }
+    },
+    {
+      "day": 1,
+      "breakfast": { "ar": "بيض مسلوق وخبز أسمر وخيار", "en": "Boiled egg, brown bread and cucumber" },
+      "snack": { "ar": "زبادي بالفواكه", "en": "Fruit yoghurt" },
+      "lunch": { "ar": "معكرونة بصلصة الطماطم والخضار", "en": "Pasta with tomato and vegetable sauce" }
+    },
+    {
+      "day": 2,
+      "breakfast": { "ar": "جبن أبيض وخبز وطماطم", "en": "White cheese, bread and tomato" },
+      "snack": { "ar": "موز وتمر", "en": "Banana and dates" },
+      "lunch": { "ar": "شوربة عدس وسمك مشوي مع أرز", "en": "Lentil soup, grilled fish and rice" }
+    },
+    {
+      "day": 3,
+      "breakfast": { "ar": "فطائر صغيرة بالجبن وحليب", "en": "Mini cheese pastries and milk" },
+      "snack": { "ar": "جزر وخيار مقطّع", "en": "Carrot and cucumber sticks" },
+      "lunch": { "ar": "كفتة بالفرن مع بطاطس مهروسة", "en": "Baked kofta with mashed potato" }
+    },
+    {
+      "day": 4,
+      "breakfast": { "ar": "بان كيك بالعسل وفواكه", "en": "Pancakes with honey and fruit" },
+      "snack": { "ar": "سلطة فواكه", "en": "Fruit salad" },
+      "lunch": { "ar": "أرز بالشعيرية وخضار مطهوة ولحم", "en": "Vermicelli rice with stewed vegetables and beef" }
+    }
+  ]
+}

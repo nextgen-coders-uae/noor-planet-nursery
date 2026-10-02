@@ -1,0 +1,57 @@
+{
+  "_comment": "الإعدادات العامة للموقع. عدّل القيم هنا ثم شغّل: npm run build",
+
+  "baseUrl": "https://noorplanet.example.com",
+  "demo": true,
+  "defaultLang": "ar",
+
+  "whatsapp": "971555515049",
+  "phones": [
+    { "display": "06 5294 767", "tel": "+97165294767" },
+    { "display": "055 5669 315", "tel": "+971555669315" },
+    { "display": "055 5515 049", "tel": "+971555515049" }
+  ],
+  "email": "abnauna2021@yahoo.com",
+
+  "institute": {
+    "url": "https://abnaona-academy.com"
+  },
+
+  "address": {
+    "street": { "ar": "شارع التلة", "en": "Al Tallah Street" },
+    "city": { "ar": "عجمان", "en": "Ajman" },
+    "country": { "ar": "الإمارات العربية المتحدة", "en": "United Arab Emirates" }
+  },
+  "geo": { "lat": 25.4052, "lng": 55.5136 },
+  "mapQuery": "معهد أبناؤنا في الخارج شارع التلة عجمان",
+
+  "hours": {
+    "days": [0, 1, 2, 3, 4],
+    "open": "07:00",
+    "close": "16:00"
+  },
+  "visitSlots": ["09:00", "10:00", "11:00", "12:00", "13:00"],
+
+  "stats": {
+    "years": 5,
+    "children": 120,
+    "teachers": 14,
+    "activities": 30
+  },
+
+  "social": {
+    "facebook": "",
+    "instagram": "",
+    "tiktok": "",
+    "youtube": ""
+  },
+
+  "analytics": {
+    "gaId": "",
+    "metaPixelId": ""
+  },
+
+  "announcement": {
+    "show": true
+  }
+}

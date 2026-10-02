@@ -1,0 +1,52 @@
+[
+  {
+    "time": "07:00", "emoji": "👋", "tone": "sun",
+    "title": { "ar": "الاستقبال والإقلاع", "en": "Arrival and lift-off" },
+    "desc": { "ar": "نستقبل كل طفل بابتسامة، فحص صحي سريع، ولعب هادئ حتى يكتمل الطاقم.", "en": "A smiling welcome, a quick health check and quiet play while the crew gathers." }
+  },
+  {
+    "time": "08:00", "emoji": "🥣", "tone": "orange",
+    "title": { "ar": "محطة الإفطار", "en": "Breakfast station" },
+    "desc": { "ar": "غسل اليدين ثم إفطار صحي نتعلّم فيه آداب المائدة والبسملة.", "en": "Handwashing, then a healthy breakfast where we practise table manners." }
+  },
+  {
+    "time": "08:30", "emoji": "🎵", "tone": "pink",
+    "title": { "ar": "حلقة الصباح", "en": "Morning circle" },
+    "desc": { "ar": "أناشيد، تحية الأصدقاء، أيام الأسبوع وحالة الطقس بالعربية والإنجليزية.", "en": "Songs, greeting friends, days of the week and the weather in Arabic and English." }
+  },
+  {
+    "time": "09:00", "emoji": "🎨", "tone": "violet",
+    "title": { "ar": "كوكب الأنشطة", "en": "Activity planet" },
+    "desc": { "ar": "نشاط تعليمي حسب البرنامج: حروف، أرقام، رسم، أشغال يدوية أو تجربة علمية.", "en": "A learning activity for each programme: letters, numbers, art, crafts or a simple experiment." }
+  },
+  {
+    "time": "10:00", "emoji": "🍎", "tone": "mint",
+    "title": { "ar": "وجبة خفيفة", "en": "Snack time" },
+    "desc": { "ar": "فاكهة طازجة وماء، واستراحة قصيرة لإعادة شحن الطاقة.", "en": "Fresh fruit and water, and a short break to recharge." }
+  },
+  {
+    "time": "10:30", "emoji": "🛝", "tone": "sky",
+    "title": { "ar": "اللعب الحر", "en": "Free play" },
+    "desc": { "ar": "لعب في المنطقة الخارجية أو الداخلية: تسلّق، كرات، رمل وماء، ودراجات صغيرة.", "en": "Outdoor or indoor play: climbing, balls, sand and water, and little bikes." }
+  },
+  {
+    "time": "12:00", "emoji": "🍲", "tone": "orange",
+    "title": { "ar": "محطة الغداء", "en": "Lunch station" },
+    "desc": { "ar": "وجبة غداء متوازنة تراعي الحساسية الغذائية لكل طفل.", "en": "A balanced lunch that respects each child's food allergies." }
+  },
+  {
+    "time": "12:45", "emoji": "😴", "tone": "violet",
+    "title": { "ar": "القيلولة بين النجوم", "en": "Nap among the stars" },
+    "desc": { "ar": "غرفة نوم هادئة بإضاءة خافتة، وسرير خاص لكل طفل، ومراقبة مستمرة.", "en": "A quiet, dimly lit sleep room with a cot for each child and constant supervision." }
+  },
+  {
+    "time": "14:30", "emoji": "📖", "tone": "pink",
+    "title": { "ar": "وقت القصة", "en": "Story time" },
+    "desc": { "ar": "قصة مصوّرة أو مسرح عرائس، ثم نتحدث عن ما تعلمناه اليوم.", "en": "A picture book or puppet show, then we talk about what we learned today." }
+  },
+  {
+    "time": "15:30", "emoji": "🚀", "tone": "sun",
+    "title": { "ar": "العودة إلى البيت", "en": "Back home" },
+    "desc": { "ar": "تسليم الطفل للأشخاص المصرّح لهم فقط مع تقرير يومي مختصر للأهل.", "en": "Handover to authorised adults only, with a short daily report for parents." }
+  }
+]

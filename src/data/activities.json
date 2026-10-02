@@ -1,0 +1,52 @@
+[
+  {
+    "emoji": "🔤", "tone": "sky",
+    "title": { "ar": "العربية والإنجليزية", "en": "Arabic and English" },
+    "desc": { "ar": "أغانٍ وبطاقات مصوّرة وحوارات يومية باللغتين، مع الحروف وأصواتها للأكبر سناً.", "en": "Songs, picture cards and daily conversation in both languages, with letters and sounds for older children." }
+  },
+  {
+    "emoji": "🔢", "tone": "orange",
+    "title": { "ar": "الأرقام والألوان", "en": "Numbers and colours" },
+    "desc": { "ar": "العدّ والتصنيف والمطابقة بالمكعبات والخرز والألعاب الملوّنة.", "en": "Counting, sorting and matching with blocks, beads and colourful toys." }
+  },
+  {
+    "emoji": "🎨", "tone": "pink",
+    "title": { "ar": "الرسم والأشغال", "en": "Art and crafts" },
+    "desc": { "ar": "ألوان الأصابع، الصلصال، القصّ واللصق — الإبداع أهم من النتيجة.", "en": "Finger paint, playdough, cutting and gluing — the process matters more than the result." }
+  },
+  {
+    "emoji": "🎵", "tone": "violet",
+    "title": { "ar": "الموسيقى والأناشيد", "en": "Music and songs" },
+    "desc": { "ar": "أناشيد حركية وإيقاع بآلات بسيطة تنمّي السمع واللغة والذاكرة.", "en": "Action songs and rhythm with simple instruments to build listening, language and memory." }
+  },
+  {
+    "emoji": "🫧", "tone": "mint",
+    "title": { "ar": "اللعب الحسي", "en": "Sensory play" },
+    "desc": { "ar": "رمل، ماء، أرز ملوّن وملامس مختلفة تغذّي فضول الحواس الخمس.", "en": "Sand, water, coloured rice and textures that feed curiosity through all five senses." }
+  },
+  {
+    "emoji": "🤸", "tone": "sun",
+    "title": { "ar": "الحركة والرياضة", "en": "Movement and sport" },
+    "desc": { "ar": "مسارات حركية، كرات، قفز وتوازن لتقوية العضلات الكبيرة والثقة بالجسم.", "en": "Obstacle paths, balls, jumping and balance to build gross motor strength and confidence." }
+  },
+  {
+    "emoji": "📚", "tone": "sky",
+    "title": { "ar": "القصص ومسرح العرائس", "en": "Stories and puppets" },
+    "desc": { "ar": "ركن مكتبة مريح وقصة يومية تُثري الخيال والمفردات.", "en": "A cosy library corner and a daily story to enrich imagination and vocabulary." }
+  },
+  {
+    "emoji": "🤝", "tone": "pink",
+    "title": { "ar": "القيم والآداب", "en": "Values and manners" },
+    "desc": { "ar": "شكراً ولو سمحت، المشاركة، الصدق، ودعاء الطعام — نتعلّمها بالقدوة والقصة.", "en": "Please and thank you, sharing, honesty and mealtime prayers — learned through example and stories." }
+  },
+  {
+    "emoji": "🔬", "tone": "mint",
+    "title": { "ar": "تجارب علمية بسيطة", "en": "Simple science" },
+    "desc": { "ar": "ماذا يطفو وماذا يغرق؟ كيف تنمو البذرة؟ اكتشافات صغيرة بأيدٍ صغيرة.", "en": "What floats and what sinks? How does a seed grow? Small discoveries for small hands." }
+  },
+  {
+    "emoji": "🎈", "tone": "orange",
+    "title": { "ar": "الحفلات والمناسبات", "en": "Parties and celebrations" },
+    "desc": { "ar": "الأعياد، اليوم الوطني، يوم الأم وأعياد الميلاد — نحتفل معاً كعائلة واحدة.", "en": "Eid, National Day, Mother's Day and birthdays — we celebrate together as one family." }
+  }
+]

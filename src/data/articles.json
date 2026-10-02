@@ -1,0 +1,100 @@
+[
+  {
+    "emoji": "🧳", "tone": "sky",
+    "title": { "ar": "كيف تهيّئين طفلك لأول يوم في الحضانة؟", "en": "Preparing your child for their first day" },
+    "body": {
+      "ar": [
+        "تحدّثي معه عن الحضانة قبلها بأيام بنبرة مبهجة، واقرئي له قصة عن أول يوم.",
+        "زوري الحضانة معه مرة قبل البدء ليتعرّف على المكان والمعلمة.",
+        "اجعلي لحظة الوداع قصيرة وواثقة: حضن، قبلة، و\"سأعود بعد الغداء\" — ثم غادري دون تردد.",
+        "أحضري معه شيئاً مألوفاً من البيت (لعبة صغيرة أو بطانية) يمنحه الطمأنينة."
+      ],
+      "en": [
+        "Talk about nursery cheerfully for a few days beforehand, and read a story about a first day.",
+        "Visit together once before starting so they meet the room and the teacher.",
+        "Keep goodbyes short and confident: a hug, a kiss, \"I'll be back after lunch\" — then leave without lingering.",
+        "Send a familiar comfort item from home (a small toy or blanket)."
+      ]
+    }
+  },
+  {
+    "emoji": "🥦", "tone": "mint",
+    "title": { "ar": "طفلي يرفض الخضار… ماذا أفعل؟", "en": "My child refuses vegetables — what now?" },
+    "body": {
+      "ar": [
+        "قدّمي الصنف نفسه أكثر من مرة دون إجبار؛ قد يحتاج الطفل 10 محاولات ليتقبّل طعماً جديداً.",
+        "أشركيه في غسل الخضار واختيارها — الطفل يأكل ما يشارك في تحضيره.",
+        "قدّمي كميات صغيرة جداً بجانب طعام يحبه، وكوني قدوة بتناولها أمامه."
+      ],
+      "en": [
+        "Offer the same food several times without pressure; it can take 10 tries to accept a new taste.",
+        "Let them help wash and choose vegetables — children eat what they help prepare.",
+        "Serve very small portions next to a food they like, and let them see you eating it too."
+      ]
+    }
+  },
+  {
+    "emoji": "🌙", "tone": "violet",
+    "title": { "ar": "روتين نوم يساعد على يوم سعيد", "en": "A bedtime routine for happier days" },
+    "body": {
+      "ar": [
+        "ثبّتي موعد النوم والاستيقاظ حتى في الإجازات قدر الإمكان.",
+        "أغلقي الشاشات قبل النوم بساعة، واستبدليها بحمّام دافئ وقصة هادئة.",
+        "الطفل بين سنة و3 سنوات يحتاج من 11 إلى 14 ساعة نوم يومياً تشمل القيلولة."
+      ],
+      "en": [
+        "Keep bedtime and wake-up time steady, even on holidays where you can.",
+        "Switch off screens an hour before bed; swap them for a warm bath and a calm story.",
+        "Children aged 1–3 need 11 to 14 hours of sleep a day, including naps."
+      ]
+    }
+  },
+  {
+    "emoji": "🚽", "tone": "orange",
+    "title": { "ar": "علامات استعداد الطفل لترك الحفاض", "en": "Signs your child is ready for potty training" },
+    "body": {
+      "ar": [
+        "يبقى جافاً لساعتين أو أكثر، ويخبرك أو يُظهر انزعاجه عند اتساخ الحفاض.",
+        "يستطيع اتباع تعليمات بسيطة وخلع سرواله بنفسه.",
+        "ابدئي في فترة هادئة، وأخبري المعلمة لنتّبع الأسلوب نفسه في الحضانة — الاتساق سرّ النجاح."
+      ],
+      "en": [
+        "They stay dry for two hours or more, and tell you or show discomfort when the nappy is dirty.",
+        "They can follow simple instructions and pull their trousers down themselves.",
+        "Start during a calm period and tell the teacher so we use the same approach at nursery — consistency is the secret."
+      ]
+    }
+  },
+  {
+    "emoji": "🗣️", "tone": "pink",
+    "title": { "ar": "لغتان في البيت: نعمة لا مشكلة", "en": "Two languages at home: a gift, not a problem" },
+    "body": {
+      "ar": [
+        "تعلّم لغتين معاً لا يسبّب تأخراً في الكلام؛ قد يخلط الطفل بينهما مؤقتاً وهذا طبيعي.",
+        "تحدّثوا في البيت باللغة التي تتقنونها بطلاقة، واتركوا الثانية للأغاني والقصص والحضانة.",
+        "اقرؤوا له يومياً ولو خمس دقائق — القراءة أقوى محفّز للغة."
+      ],
+      "en": [
+        "Learning two languages together does not delay speech; temporary mixing is completely normal.",
+        "Speak the language you are most fluent in at home, and leave the other to songs, stories and nursery.",
+        "Read together every day, even for five minutes — reading is the strongest language booster."
+      ]
+    }
+  },
+  {
+    "emoji": "🧼", "tone": "sun",
+    "title": { "ar": "متى أُبقي طفلي في البيت؟", "en": "When should I keep my child at home?" },
+    "body": {
+      "ar": [
+        "عند ارتفاع الحرارة إلى 38° أو أكثر، أو القيء أو الإسهال خلال آخر 24 ساعة.",
+        "عند ظهور طفح جلدي غير مشخّص أو التهاب في العين مع إفرازات.",
+        "الراحة في البيت تسرّع الشفاء وتحمي أصدقاءه — وأخبرينا لنطمئن عليه."
+      ],
+      "en": [
+        "With a temperature of 38°C or above, or vomiting or diarrhoea in the last 24 hours.",
+        "With an undiagnosed rash, or an eye infection with discharge.",
+        "Rest at home speeds recovery and protects their friends — and do let us know so we can check in."
+      ]
+    }
+  }
+]

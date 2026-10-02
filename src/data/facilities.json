@@ -1,0 +1,32 @@
+[
+  {
+    "emoji": "🏫", "tone": "sky", "image": "facilities/classrooms.svg",
+    "title": { "ar": "الفصول", "en": "Classrooms" },
+    "desc": { "ar": "فصول مضيئة بأثاث على مقاس الأطفال وأركان تعليمية (قراءة، بناء، فن، تمثيل).", "en": "Bright rooms with child-sized furniture and learning corners (reading, building, art, role play)." }
+  },
+  {
+    "emoji": "🛏️", "tone": "violet", "image": "facilities/sleep-room.svg",
+    "title": { "ar": "غرفة النوم", "en": "Sleep room" },
+    "desc": { "ar": "غرفة هادئة بإضاءة خافتة وسرير ومفرش خاص لكل طفل، مع مراقبة طوال فترة القيلولة.", "en": "A quiet, softly lit room with a cot and bedding for each child, supervised throughout nap time." }
+  },
+  {
+    "emoji": "🧸", "tone": "pink", "image": "facilities/indoor-play.svg",
+    "title": { "ar": "منطقة اللعب الداخلية", "en": "Indoor play area" },
+    "desc": { "ar": "أرضيات إسفنجية وألعاب تسلّق لينة وحوض كرات، مكيّفة لأيام الصيف.", "en": "Soft flooring, soft-play climbers and a ball pit, air-conditioned for summer days." }
+  },
+  {
+    "emoji": "🛝", "tone": "mint", "image": "facilities/outdoor-play.svg",
+    "title": { "ar": "منطقة اللعب الخارجية", "en": "Outdoor play area" },
+    "desc": { "ar": "ساحة مظلّلة بأرضية مطاطية، زحاليق منخفضة، ركن رمل وماء ودراجات صغيرة.", "en": "A shaded yard with rubber flooring, low slides, a sand-and-water corner and little bikes." }
+  },
+  {
+    "emoji": "🎭", "tone": "orange", "image": "facilities/activity-room.svg",
+    "title": { "ar": "غرفة الأنشطة", "en": "Activity room" },
+    "desc": { "ar": "مساحة متعددة الاستخدام للفن والموسيقى ومسرح العرائس والحفلات.", "en": "A multi-purpose space for art, music, puppet shows and parties." }
+  },
+  {
+    "emoji": "🍽️", "tone": "sun", "image": "facilities/dining.svg",
+    "title": { "ar": "ركن الطعام والعيادة", "en": "Dining corner and clinic" },
+    "desc": { "ar": "ركن طعام نظيف بطاولات منخفضة، وغرفة عيادة مجهّزة للإسعافات الأولية.", "en": "A clean dining corner with low tables, and a clinic room equipped for first aid." }
+  }
+]

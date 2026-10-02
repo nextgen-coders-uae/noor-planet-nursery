@@ -1,0 +1,44 @@
+{
+  "_comment": "image: مسار داخل src/assets/img. إن لم يوجد الملف يولّد البناء صورة SVG مؤقتة تلقائياً. عند توفر صور حقيقية ضعها بصيغة WebP وغيّر المسار. لا تُنشر صور أطفال بدون موافقة كتابية من الأهل.",
+
+  "categories": [
+    { "id": "activities", "name": { "ar": "الأنشطة", "en": "Activities" } },
+    { "id": "parties", "name": { "ar": "الحفلات", "en": "Parties" } },
+    { "id": "facilities", "name": { "ar": "المرافق", "en": "Facilities" } },
+    { "id": "occasions", "name": { "ar": "المناسبات", "en": "Occasions" } }
+  ],
+
+  "items": [
+    { "cat": "activities", "image": "gallery/painting.svg", "emoji": "🎨", "tone": "pink", "featured": true,
+      "alt": { "ar": "أيادٍ صغيرة ترسم بألوان الأصابع", "en": "Little hands finger painting" } },
+    { "cat": "activities", "image": "gallery/blocks.svg", "emoji": "🧱", "tone": "sky", "featured": true,
+      "alt": { "ar": "بناء برج بالمكعبات الملوّنة", "en": "Building a tower with coloured blocks" } },
+    { "cat": "activities", "image": "gallery/story.svg", "emoji": "📖", "tone": "violet", "featured": true,
+      "alt": { "ar": "حلقة القصة في ركن المكتبة", "en": "Story circle in the library corner" } },
+    { "cat": "activities", "image": "gallery/sensory.svg", "emoji": "🫧", "tone": "mint",
+      "alt": { "ar": "لعب حسي بالماء والرمل", "en": "Sensory play with water and sand" } },
+    { "cat": "activities", "image": "gallery/music.svg", "emoji": "🥁", "tone": "orange",
+      "alt": { "ar": "حصة الموسيقى والإيقاع", "en": "Music and rhythm session" } },
+    { "cat": "facilities", "image": "gallery/classroom.svg", "emoji": "🏫", "tone": "sun", "featured": true,
+      "alt": { "ar": "فصل مضيء بأركان تعليمية", "en": "A bright classroom with learning corners" } },
+    { "cat": "facilities", "image": "gallery/playground.svg", "emoji": "🛝", "tone": "mint", "featured": true,
+      "alt": { "ar": "منطقة اللعب الخارجية المظلّلة", "en": "The shaded outdoor play area" } },
+    { "cat": "facilities", "image": "gallery/sleep.svg", "emoji": "🛏️", "tone": "violet",
+      "alt": { "ar": "غرفة النوم الهادئة", "en": "The quiet sleep room" } },
+    { "cat": "parties", "image": "gallery/birthday.svg", "emoji": "🎂", "tone": "pink", "featured": true,
+      "alt": { "ar": "حفل أعياد ميلاد الشهر", "en": "Monthly birthday party" } },
+    { "cat": "parties", "image": "gallery/costume.svg", "emoji": "🎭", "tone": "orange",
+      "alt": { "ar": "يوم الأزياء التنكرية", "en": "Dress-up day" } },
+    { "cat": "occasions", "image": "gallery/national-day.svg", "emoji": "🇦🇪", "tone": "mint",
+      "alt": { "ar": "احتفال عيد الاتحاد", "en": "National Day celebration" } },
+    { "cat": "occasions", "image": "gallery/mothers-day.svg", "emoji": "💐", "tone": "pink",
+      "alt": { "ar": "صباح يوم الأم", "en": "Mother's Day morning" } }
+  ],
+
+  "videos": [
+    { "youtubeId": "", "emoji": "🎬", "tone": "sky",
+      "title": { "ar": "جولة داخل كوكب نور", "en": "A tour inside Noor Planet" } },
+    { "youtubeId": "", "emoji": "🎶", "tone": "violet",
+      "title": { "ar": "أنشودة الصباح", "en": "Our morning song" } }
+  ]
+}
